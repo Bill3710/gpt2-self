@@ -1,0 +1,68 @@
+555555554000-555555556000 r--p 00000000 103:05 3298560                   /home/vigarov/temp/parsec-benchmark/pkgs/apps/fluidanimate/inst/amd64-linux.gcc/bin/fluidanimate
+555555556000-55555555e000 r-xp 00002000 103:05 3298560                   /home/vigarov/temp/parsec-benchmark/pkgs/apps/fluidanimate/inst/amd64-linux.gcc/bin/fluidanimate
+55555555e000-55555555f000 r--p 0000a000 103:05 3298560                   /home/vigarov/temp/parsec-benchmark/pkgs/apps/fluidanimate/inst/amd64-linux.gcc/bin/fluidanimate
+555555560000-555555561000 r--p 0000b000 103:05 3298560                   /home/vigarov/temp/parsec-benchmark/pkgs/apps/fluidanimate/inst/amd64-linux.gcc/bin/fluidanimate
+555555561000-555555562000 rw-p 0000c000 103:05 3298560                   /home/vigarov/temp/parsec-benchmark/pkgs/apps/fluidanimate/inst/amd64-linux.gcc/bin/fluidanimate
+555555562000-555555583000 rw-p 00000000 00:00 0                          [heap]
+7fff5c000000-7fff5c021000 rw-p 00000000 00:00 0 
+7fff5c021000-7fff60000000 ---p 00000000 00:00 0 
+7fff64000000-7fff64062000 rw-p 00000000 00:00 0 
+7fff64062000-7fff68000000 ---p 00000000 00:00 0 
+7fff6972f000-7fff69730000 ---p 00000000 00:00 0 
+7fff69730000-7fff69f30000 rw-p 00000000 00:00 0 
+7fff69f30000-7fff69f31000 ---p 00000000 00:00 0 
+7fff69f31000-7fff6a731000 rw-p 00000000 00:00 0 
+7fff6a731000-7fff6a732000 ---p 00000000 00:00 0 
+7fff6a732000-7fff6af32000 rw-p 00000000 00:00 0 
+7fff6af32000-7fff73599000 rw-p 00000000 00:00 0 
+7fff73599000-7fffa5c00000 rw-p 00000000 00:00 0 
+7fffa6000000-7fffc3300000 rw-p 00000000 00:00 0 
+7fffc3a00000-7fffc4000000 rw-p 00000000 00:00 0 
+7fffc40ff000-7fffc5000000 rw-p 00000000 00:00 0 
+7fffc5000000-7fffe4400000 rw-p 00000000 00:00 0 
+7fffe4400000-7ffff4c00000 rw-p 00000000 00:00 0 
+7ffff4c00000-7ffff4c28000 r--p 00000000 103:05 2627879                   /usr/lib/x86_64-linux-gnu/libc.so.6
+7ffff4c28000-7ffff4dbd000 r-xp 00028000 103:05 2627879                   /usr/lib/x86_64-linux-gnu/libc.so.6
+7ffff4dbd000-7ffff4e15000 r--p 001bd000 103:05 2627879                   /usr/lib/x86_64-linux-gnu/libc.so.6
+7ffff4e15000-7ffff4e19000 r--p 00214000 103:05 2627879                   /usr/lib/x86_64-linux-gnu/libc.so.6
+7ffff4e19000-7ffff4e1b000 rw-p 00218000 103:05 2627879                   /usr/lib/x86_64-linux-gnu/libc.so.6
+7ffff4e1b000-7ffff4e28000 rw-p 00000000 00:00 0 
+7ffff5000000-7ffff509a000 r--p 00000000 103:05 2622031                   /usr/lib/x86_64-linux-gnu/libstdc++.so.6.0.30
+7ffff509a000-7ffff51ab000 r-xp 0009a000 103:05 2622031                   /usr/lib/x86_64-linux-gnu/libstdc++.so.6.0.30
+7ffff51ab000-7ffff521a000 r--p 001ab000 103:05 2622031                   /usr/lib/x86_64-linux-gnu/libstdc++.so.6.0.30
+7ffff521a000-7ffff521b000 ---p 0021a000 103:05 2622031                   /usr/lib/x86_64-linux-gnu/libstdc++.so.6.0.30
+7ffff521b000-7ffff5226000 r--p 0021a000 103:05 2622031                   /usr/lib/x86_64-linux-gnu/libstdc++.so.6.0.30
+7ffff5226000-7ffff5229000 rw-p 00225000 103:05 2622031                   /usr/lib/x86_64-linux-gnu/libstdc++.so.6.0.30
+7ffff5229000-7ffff522c000 rw-p 00000000 00:00 0 
+7ffff5288000-7ffff5306000 rw-p 00000000 00:00 0 
+7ffff5306000-7ffff5400000 rw-s 00000000 00:01 4165                       /dev/zero (deleted)
+7ffff5400000-7ffff540c000 r--p 00000000 103:05 2516823                   /home/vigarov/fltrace/fltrace.so
+7ffff540c000-7ffff5496000 r-xp 0000c000 103:05 2516823                   /home/vigarov/fltrace/fltrace.so
+7ffff5496000-7ffff54a9000 r--p 00096000 103:05 2516823                   /home/vigarov/fltrace/fltrace.so
+7ffff54a9000-7ffff54af000 r--p 000a8000 103:05 2516823                   /home/vigarov/fltrace/fltrace.so
+7ffff54af000-7ffff54b0000 rw-p 000ae000 103:05 2516823                   /home/vigarov/fltrace/fltrace.so
+7ffff54b0000-7ffff7e20000 rw-p 00000000 00:00 0 
+7ffff7e37000-7ffff7e72000 rw-p 00000000 00:00 0 
+7ffff7e72000-7ffff7e92000 rw-p 00000000 00:00 0 
+7ffff7e92000-7ffff7e9c000 rw-p 00000000 00:00 0 
+7ffff7e9c000-7ffff7e9f000 r--p 00000000 103:05 2621459                   /usr/lib/x86_64-linux-gnu/libgcc_s.so.1
+7ffff7e9f000-7ffff7eb6000 r-xp 00003000 103:05 2621459                   /usr/lib/x86_64-linux-gnu/libgcc_s.so.1
+7ffff7eb6000-7ffff7eba000 r--p 0001a000 103:05 2621459                   /usr/lib/x86_64-linux-gnu/libgcc_s.so.1
+7ffff7eba000-7ffff7ebb000 r--p 0001d000 103:05 2621459                   /usr/lib/x86_64-linux-gnu/libgcc_s.so.1
+7ffff7ebb000-7ffff7ebc000 rw-p 0001e000 103:05 2621459                   /usr/lib/x86_64-linux-gnu/libgcc_s.so.1
+7ffff7ebc000-7ffff7eca000 r--p 00000000 103:05 2628528                   /usr/lib/x86_64-linux-gnu/libm.so.6
+7ffff7eca000-7ffff7f46000 r-xp 0000e000 103:05 2628528                   /usr/lib/x86_64-linux-gnu/libm.so.6
+7ffff7f46000-7ffff7fa1000 r--p 0008a000 103:05 2628528                   /usr/lib/x86_64-linux-gnu/libm.so.6
+7ffff7fa1000-7ffff7fa2000 r--p 000e4000 103:05 2628528                   /usr/lib/x86_64-linux-gnu/libm.so.6
+7ffff7fa2000-7ffff7fa3000 rw-p 000e5000 103:05 2628528                   /usr/lib/x86_64-linux-gnu/libm.so.6
+7ffff7fbb000-7ffff7fbd000 rw-p 00000000 00:00 0 
+7ffff7fbd000-7ffff7fc1000 r--p 00000000 00:00 0                          [vvar]
+7ffff7fc1000-7ffff7fc3000 r-xp 00000000 00:00 0                          [vdso]
+7ffff7fc3000-7ffff7fc5000 r--p 00000000 103:05 2627544                   /usr/lib/x86_64-linux-gnu/ld-linux-x86-64.so.2
+7ffff7fc5000-7ffff7fef000 r-xp 00002000 103:05 2627544                   /usr/lib/x86_64-linux-gnu/ld-linux-x86-64.so.2
+7ffff7fef000-7ffff7ffa000 r--p 0002c000 103:05 2627544                   /usr/lib/x86_64-linux-gnu/ld-linux-x86-64.so.2
+7ffff7ffa000-7ffff7ffb000 rw-s 00000000 00:01 4164                       /dev/zero (deleted)
+7ffff7ffb000-7ffff7ffd000 r--p 00037000 103:05 2627544                   /usr/lib/x86_64-linux-gnu/ld-linux-x86-64.so.2
+7ffff7ffd000-7ffff7fff000 rw-p 00039000 103:05 2627544                   /usr/lib/x86_64-linux-gnu/ld-linux-x86-64.so.2
+7ffffffde000-7ffffffff000 rw-p 00000000 00:00 0                          [stack]
+ffffffffff600000-ffffffffff601000 --xp 00000000 00:00 0                  [vsyscall]

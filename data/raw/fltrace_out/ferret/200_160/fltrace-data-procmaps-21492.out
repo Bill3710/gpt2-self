@@ -1,0 +1,64 @@
+555555554000-555555559000 r--p 00000000 103:05 3298530                   /home/vigarov/temp/parsec-benchmark/pkgs/apps/ferret/inst/amd64-linux.gcc/bin/ferret
+555555559000-5555555cf000 r-xp 00005000 103:05 3298530                   /home/vigarov/temp/parsec-benchmark/pkgs/apps/ferret/inst/amd64-linux.gcc/bin/ferret
+5555555cf000-5555555df000 r--p 0007b000 103:05 3298530                   /home/vigarov/temp/parsec-benchmark/pkgs/apps/ferret/inst/amd64-linux.gcc/bin/ferret
+5555555e0000-5555555e2000 r--p 0008b000 103:05 3298530                   /home/vigarov/temp/parsec-benchmark/pkgs/apps/ferret/inst/amd64-linux.gcc/bin/ferret
+5555555e2000-5555555e3000 rw-p 0008d000 103:05 3298530                   /home/vigarov/temp/parsec-benchmark/pkgs/apps/ferret/inst/amd64-linux.gcc/bin/ferret
+5555555e3000-555555609000 rw-p 00000000 00:00 0                          [heap]
+7fff80000000-7fff80021000 rw-p 00000000 00:00 0 
+7fff80021000-7fff84000000 ---p 00000000 00:00 0 
+7fff88000000-7fff88062000 rw-p 00000000 00:00 0 
+7fff88062000-7fff8c000000 ---p 00000000 00:00 0 
+7fff8db2c000-7fff8db2d000 ---p 00000000 00:00 0 
+7fff8db2d000-7fff8e32d000 rw-p 00000000 00:00 0 
+7fff8e32d000-7fff8e32e000 ---p 00000000 00:00 0 
+7fff8e32e000-7fff8eb2e000 rw-p 00000000 00:00 0 
+7fff8eb2e000-7fff8eb2f000 ---p 00000000 00:00 0 
+7fff8eb2f000-7fff8f32f000 rw-p 00000000 00:00 0 
+7fff8f32f000-7fff8f330000 ---p 00000000 00:00 0 
+7fff8f330000-7fff8fb30000 rw-p 00000000 00:00 0 
+7fff8fb30000-7fff8fb31000 ---p 00000000 00:00 0 
+7fff8fb31000-7fff90331000 rw-p 00000000 00:00 0 
+7fff90331000-7fff90332000 ---p 00000000 00:00 0 
+7fff90332000-7fff90b32000 rw-p 00000000 00:00 0 
+7fff90b32000-7fff99199000 rw-p 00000000 00:00 0 
+7fff99199000-7fffcb800000 rw-p 00000000 00:00 0 
+7fffcbc00000-7fffd8000000 rw-p 00000000 00:00 0 
+7fffd8000000-7fffe4800000 rw-p 00000000 00:00 0 
+7fffe4800000-7ffff5000000 rw-p 00000000 00:00 0 
+7ffff5000000-7ffff5028000 r--p 00000000 103:05 2627879                   /usr/lib/x86_64-linux-gnu/libc.so.6
+7ffff5028000-7ffff51bd000 r-xp 00028000 103:05 2627879                   /usr/lib/x86_64-linux-gnu/libc.so.6
+7ffff51bd000-7ffff5215000 r--p 001bd000 103:05 2627879                   /usr/lib/x86_64-linux-gnu/libc.so.6
+7ffff5215000-7ffff5219000 r--p 00214000 103:05 2627879                   /usr/lib/x86_64-linux-gnu/libc.so.6
+7ffff5219000-7ffff521b000 rw-p 00218000 103:05 2627879                   /usr/lib/x86_64-linux-gnu/libc.so.6
+7ffff521b000-7ffff5228000 rw-p 00000000 00:00 0 
+7ffff5327000-7ffff532a000 r--p 00000000 103:05 2621459                   /usr/lib/x86_64-linux-gnu/libgcc_s.so.1
+7ffff532a000-7ffff5341000 r-xp 00003000 103:05 2621459                   /usr/lib/x86_64-linux-gnu/libgcc_s.so.1
+7ffff5341000-7ffff5345000 r--p 0001a000 103:05 2621459                   /usr/lib/x86_64-linux-gnu/libgcc_s.so.1
+7ffff5345000-7ffff5346000 r--p 0001d000 103:05 2621459                   /usr/lib/x86_64-linux-gnu/libgcc_s.so.1
+7ffff5346000-7ffff5347000 rw-p 0001e000 103:05 2621459                   /usr/lib/x86_64-linux-gnu/libgcc_s.so.1
+7ffff5347000-7ffff5400000 rw-p 00000000 00:00 0 
+7ffff5400000-7ffff540c000 r--p 00000000 103:05 2516823                   /home/vigarov/fltrace/fltrace.so
+7ffff540c000-7ffff5496000 r-xp 0000c000 103:05 2516823                   /home/vigarov/fltrace/fltrace.so
+7ffff5496000-7ffff54a9000 r--p 00096000 103:05 2516823                   /home/vigarov/fltrace/fltrace.so
+7ffff54a9000-7ffff54af000 r--p 000a8000 103:05 2516823                   /home/vigarov/fltrace/fltrace.so
+7ffff54af000-7ffff54b0000 rw-p 000ae000 103:05 2516823                   /home/vigarov/fltrace/fltrace.so
+7ffff54b0000-7ffff7e20000 rw-p 00000000 00:00 0 
+7ffff7e32000-7ffff7e52000 rw-p 00000000 00:00 0 
+7ffff7e52000-7ffff7eb6000 rw-s 00000000 00:01 1122                       /dev/zero (deleted)
+7ffff7eb6000-7ffff7ebc000 rw-p 00000000 00:00 0 
+7ffff7ebc000-7ffff7eca000 r--p 00000000 103:05 2628528                   /usr/lib/x86_64-linux-gnu/libm.so.6
+7ffff7eca000-7ffff7f46000 r-xp 0000e000 103:05 2628528                   /usr/lib/x86_64-linux-gnu/libm.so.6
+7ffff7f46000-7ffff7fa1000 r--p 0008a000 103:05 2628528                   /usr/lib/x86_64-linux-gnu/libm.so.6
+7ffff7fa1000-7ffff7fa2000 r--p 000e4000 103:05 2628528                   /usr/lib/x86_64-linux-gnu/libm.so.6
+7ffff7fa2000-7ffff7fa3000 rw-p 000e5000 103:05 2628528                   /usr/lib/x86_64-linux-gnu/libm.so.6
+7ffff7fbb000-7ffff7fbd000 rw-p 00000000 00:00 0 
+7ffff7fbd000-7ffff7fc1000 r--p 00000000 00:00 0                          [vvar]
+7ffff7fc1000-7ffff7fc3000 r-xp 00000000 00:00 0                          [vdso]
+7ffff7fc3000-7ffff7fc5000 r--p 00000000 103:05 2627544                   /usr/lib/x86_64-linux-gnu/ld-linux-x86-64.so.2
+7ffff7fc5000-7ffff7fef000 r-xp 00002000 103:05 2627544                   /usr/lib/x86_64-linux-gnu/ld-linux-x86-64.so.2
+7ffff7fef000-7ffff7ffa000 r--p 0002c000 103:05 2627544                   /usr/lib/x86_64-linux-gnu/ld-linux-x86-64.so.2
+7ffff7ffa000-7ffff7ffb000 rw-s 00000000 00:01 1121                       /dev/zero (deleted)
+7ffff7ffb000-7ffff7ffd000 r--p 00037000 103:05 2627544                   /usr/lib/x86_64-linux-gnu/ld-linux-x86-64.so.2
+7ffff7ffd000-7ffff7fff000 rw-p 00039000 103:05 2627544                   /usr/lib/x86_64-linux-gnu/ld-linux-x86-64.so.2
+7ffffffde000-7ffffffff000 rw-p 00000000 00:00 0                          [stack]
+ffffffffff600000-ffffffffff601000 --xp 00000000 00:00 0                  [vsyscall]
