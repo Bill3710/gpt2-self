@@ -1,0 +1,10 @@
+
+gpt2-self/added_tokens.json
+gpt2-self/config.json
+/gpt2-self/data
+gpt2-self/datase.tar.gz
+gpt2-self/merges.txt
+gpt2-self/vocab.json
+gpt2-self/tokenizer_config.json
+gpt2-self/model.safetensors
+gpt2-self/special_tokens_map.json
